@@ -11,7 +11,7 @@ Leitor de Certificado Digital (Arquivos no formato .pfx)
 
 - Logicamente o código PHP pode ser bem melhor elaborado, como por exemplo, com validação de extensão, tamanho, etc ... 
 - Poderíamos até mesmo pegar esses dados extraídos e inserirmos os mesmos em uma tabela do banco de dados. (Poderíamos fazer um controle de vencimentos, por exemplo). 
-- Mas, basicamente, a premissa é essa. 
+- Basicamente é isso.
 
 - Abraços!
 
