@@ -1,7 +1,7 @@
 <html>
 <head>
     <title>Vision - Certificado Digital</title>
-    <link rel="stylesheet" href="_bootstrap/4.3.1/css/bootstrap.min.css">  
+    <link rel="stylesheet" href="_bootstrap/bootstrap.min.css">  
 </head>
 <body>
 
@@ -42,7 +42,7 @@
 </div>
 
 <script src="//code.jquery.com/jquery-3.4.0.min.js"></script>
-<script src="_bootstrap/4.3.1/js/bootstrap.min.js"></script>
+<script src="_bootstrap/bootstrap.min.js"></script>
 <script src="scripts/script.js"></script>
 		
 
