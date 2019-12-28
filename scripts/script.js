@@ -20,7 +20,7 @@ $(document).ready(function()
 
 		$.ajax
 		({		
-			url:"php/pagina-certificado/salvar-certificado.php",		
+			url:"php/salvar-certificado.php",		
 			type:"POST",
 			data: data,
 			processData: false,
